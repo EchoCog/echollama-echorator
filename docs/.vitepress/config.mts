@@ -80,6 +80,19 @@ export default defineConfig({
             ],
           },
           {
+            text: 'Architecture',
+            items: [
+              { text: 'Overview', link: '/pages/en/architecture/' },
+              { text: 'System Architecture', link: '/pages/en/architecture/overview' },
+              { text: 'Component Architecture', link: '/pages/en/architecture/components' },
+              { text: 'Kubernetes Resources', link: '/pages/en/architecture/kubernetes-resources' },
+              { text: 'EchoLlama Integration', link: '/pages/en/architecture/echollama-integration' },
+              { text: 'Deep Tree Echo System', link: '/pages/en/architecture/deep-tree-echo' },
+              { text: 'Data Flow', link: '/pages/en/architecture/data-flow' },
+              { text: 'Deployment Architecture', link: '/pages/en/architecture/deployment' },
+            ],
+          },
+          {
             text: 'Reference',
             items: [
               { text: 'CLI Reference', link: '/pages/en/references/cli/' },
@@ -106,6 +119,19 @@ export default defineConfig({
                 ],
               },
               { text: 'Supported models', link: '/pages/en/guide/supported-models' },
+            ],
+          },
+          {
+            text: 'Architecture',
+            items: [
+              { text: 'Overview', link: '/pages/en/architecture/' },
+              { text: 'System Architecture', link: '/pages/en/architecture/overview' },
+              { text: 'Component Architecture', link: '/pages/en/architecture/components' },
+              { text: 'Kubernetes Resources', link: '/pages/en/architecture/kubernetes-resources' },
+              { text: 'EchoLlama Integration', link: '/pages/en/architecture/echollama-integration' },
+              { text: 'Deep Tree Echo System', link: '/pages/en/architecture/deep-tree-echo' },
+              { text: 'Data Flow', link: '/pages/en/architecture/data-flow' },
+              { text: 'Deployment Architecture', link: '/pages/en/architecture/deployment' },
             ],
           },
           {
